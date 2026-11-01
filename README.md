@@ -1,0 +1,2 @@
+# MDForid-
+ {   "name": "forid-voice-server",   "version": "1.0.0",   "private": true,   "main": "server.js",   "scripts": {     "start": "node server.js"   },   "engines": {     "node": ">=18"   },   "dependencies": {     "express": "^5.1.0",     "cors": "^2.8.5",     "express-rate-limit": "^8.1.0"   } }
